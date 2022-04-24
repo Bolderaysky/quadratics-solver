@@ -16,7 +16,6 @@ g++.exe quadratics.cpp -O2 -o quadratics.exe
 ```
 
 ## How to run it?
-Program syntax is very simple:
 **GNU/Linux**
 ```
 ./quadratics [a] [b] [c]
